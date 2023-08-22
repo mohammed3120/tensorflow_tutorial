@@ -1,5 +1,7 @@
 # tensorflow_tutorial
 
-## pip install -r requirements.txt
-
-## conda install -c anaconda tensorflow-gpu
+## Installing
+### 1. conda install -c anaconda pandas
+### 2. conda install -c anaconda seaborn
+### 3. conda install -c anaconda tensorflow-gpu
+### 4. pip install tensorflow==2.10.0
